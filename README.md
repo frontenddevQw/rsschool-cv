@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://frontenddevQw.github.io/rsschool-cv/
+# https://frontenddevQw.github.io/rsschool-cv/
