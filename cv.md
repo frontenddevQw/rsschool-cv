@@ -3,7 +3,7 @@
 ---
 ## My contact :
 -	Location: Saint-Petersburg, Russia	
-- [GitHub](https://github.com/uselessdeveloperFr)
+- [GitHub](https://github.com/frontenddevQw)
 
 ---
 
